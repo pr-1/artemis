@@ -17,7 +17,7 @@ dependencies:
   glob: ^1.2.0
   gql_code_gen: ^0.1.5
   gql_dedupe_link: ^1.0.10
-  gql_exec: ^0.2.5
+  gql_exec: ^1.0.0
   gql_http_link: ^0.3.2
   gql_link: ^0.3.1-alpha
   gql: ^0.12.4
